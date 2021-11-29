@@ -1,4 +1,4 @@
-##Tx Circuit:
+## Tx Circuit:
 
  HC-12 → UNO
     SET = none
@@ -12,7 +12,7 @@
     5V = 5V
     Wiper = A2
     
-##Rx Circuit:
+## Rx Circuit:
 
  HC-12 → UNO
     SET = none
